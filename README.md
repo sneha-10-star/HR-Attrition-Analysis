@@ -1,6 +1,6 @@
 HR Attrition Analysis | Power BI Portfolio
 📌 Project Overview
----
+----
 
 This project focuses on Employee Retention Analytics using an HR dataset of 1,470 employees.
 
@@ -69,7 +69,6 @@ Risk Zone: The Research & Development (R&D) department shows the highest number 
 
 Income Gap: Lower-income roles such as Laboratory Technicians have significantly higher attrition rates.
 
-Overall Impact: The organization’s total attrition rate is 16.1%.
 
 
 📂 Project Files
