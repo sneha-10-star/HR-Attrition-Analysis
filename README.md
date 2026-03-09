@@ -1,6 +1,7 @@
-HR Attrition Analysis | Power BI Portfolio
+-----
+📊 HR Attrition Analysis | Power BI Portfolio
 📌 Project Overview
-----
+-----
 
 This project focuses on Employee Retention Analytics using an HR dataset of 1,470 employees.
 
