@@ -15,9 +15,9 @@ The relationship between Monthly Income and Attrition
 
 The main objective is to identify the key reasons why employees leave the organization and provide data-driven insights to help HR improve employee retention.
 
-
+----
 🎯 Business Questions Addressed
----
+
 Does working Overtime directly lead to higher Attrition?
 
 Which Departments (R&D, Sales, HR) experience the highest employee turnover?
