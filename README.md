@@ -16,7 +16,7 @@ The relationship between Monthly Income and Attrition
 The main objective is to identify the key reasons why employees leave the organization and provide data-driven insights to help HR improve employee retention.
 
 ----
-🎯** Business Questions Addressed**
+🎯  **Business Questions Addressed**
 
 Does working Overtime directly lead to higher Attrition?
 
@@ -62,7 +62,7 @@ Custom Dark Mode Dashboard
 High-contrast visuals for clear executive reporting
 
 ---
-📈** Key Insights**
+📈  **Key Insights**
 
 Primary Driver: Overtime was identified as the strongest factor contributing to employee attrition.
 
@@ -72,7 +72,7 @@ Income Gap: Lower-income roles such as Laboratory Technicians have significantly
 
 
 ---
-📂** Project Files**
+📂  **Project Files**
 
 HR_Attrition_Analysis_Dashboard.pbix → Final Power BI Dashboard
 
