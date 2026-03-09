@@ -7,8 +7,6 @@ This project focuses on Employee Retention Analytics using an HR dataset of 1,47
 
 Unlike general business dashboards, this analysis explores workforce stability by examining:
 
-Employee turnover (Attrition) rates
-
 The impact of Overtime on employee retention
 
 The relationship between Monthly Income and Attrition
