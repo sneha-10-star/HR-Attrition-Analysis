@@ -1,59 +1,82 @@
 HR Attrition Analysis | Power BI Portfolio
 📌 Project Overview
+---
+
 This project focuses on Employee Retention Analytics using an HR dataset of 1,470 employees.
 
-Unlike general business dashboards, this analysis deep-dives into workforce stability by examining:
+Unlike general business dashboards, this analysis explores workforce stability by examining:
 
 Employee turnover (Attrition) rates
 
-Impact of workload (Overtime)
+The impact of Overtime on employee retention
 
-Correlation between income and retention The objective is to identify why employees leave and provide data-driven recommendations to the HR department.
+The relationship between Monthly Income and Attrition
+
+The main objective is to identify the key reasons why employees leave the organization and provide data-driven insights to help HR improve employee retention.
 
 🎯 Business Questions Addressed
+
 Does working Overtime directly lead to higher Attrition?
 
-Which Departments (R&D, Sales, HR) have the highest turnover?
+Which Departments (R&D, Sales, HR) experience the highest employee turnover?
 
-How does Average Monthly Income compare between those who stay and those who leave?
+How does Average Monthly Income compare between employees who stay and those who leave?
 
 🛠️ Tools & Skills Used
-✔ Data Cleaning & Transformation - Power Query (Cleaning 1,470 rows, removing null columns like Date_of_termination)
 
-✔ Data Modeling - Column profiling and data type normalization (Date/Text/Whole Number)
+✔ Data Cleaning & Transformation
 
-✔ DAX Measures - Attrition Count (Calculating 'Yes' values)
+Power Query (cleaned 1,470 rows)
 
-Attrition Rate % (Turnover percentage)
+Removed null or unnecessary columns such as Date_of_Termination
+
+✔ Data Modeling
+
+Column profiling
+
+Data type normalization (Date, Text, Whole Number)
+
+✔ DAX Measures
+
+Attrition Count
+
+Attrition Rate (%)
 
 Average Income per Job Role
 
-✔ Data Visualization - Donut Chart (Departmental Breakdown)
+✔ Data Visualization
 
-Stacked Bar Charts (Overtime vs. Attrition)
+Donut Chart (Departmental attrition distribution)
 
-Treemaps (Satisfaction segmentation)
+Stacked Bar Charts (Overtime vs Attrition)
 
-✔ UI / UX Design - Custom Dark Mode dashboard
+Treemaps (Employee satisfaction segmentation)
 
-High-contrast visual storytelling for executive reporting
+✔ UI / UX Design
+
+Custom Dark Mode Dashboard
+
+High-contrast visuals for clear executive reporting
 
 📈 Key Insights
-Primary Driver: Identified Overtime as the #1 predictor of employee attrition.
 
-Risk Zone: The Research & Development department shows the highest volume of leavers.
+Primary Driver: Overtime was identified as the strongest factor contributing to employee attrition.
 
-Income Gap: Lower-income roles like Laboratory Technicians have significantly higher attrition rates.
+Risk Zone: The Research & Development (R&D) department shows the highest number of employees leaving.
 
-Total Impact: Successfully calculated an overall company attrition rate of 16.1%.
+Income Gap: Lower-income roles such as Laboratory Technicians have significantly higher attrition rates.
+
+Overall Impact: The organization’s total attrition rate is 16.1%.
 
 📂 Project Files
-HR_Attrition_Analysis_Dashboard.pbix → Final Power BI dashboard
+
+HR_Attrition_Analysis_Dashboard.pbix → Final Power BI Dashboard
 
 Final_dataset_Attrition.csv → Cleaned Dataset
 
-HR_Dashboard_Dark_Mode.png → Dashboard preview
+HR_Dashboard_Dark_Mode.png → Dashboard Preview
 
 👩‍💻 Author
-Sneha Thakur Aspiring Data Analyst | Power BI Portfolio
 
+Sneha Thakur
+Aspiring Data Analyst | Power BI Portfolio
