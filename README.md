@@ -13,6 +13,7 @@ The impact of Overtime on employee retention
 The relationship between Monthly Income and Attrition
 
 The main objective is to identify the key reasons why employees leave the organization and provide data-driven insights to help HR improve employee retention.
+---
 
 🎯 Business Questions Addressed
 
@@ -21,6 +22,7 @@ Does working Overtime directly lead to higher Attrition?
 Which Departments (R&D, Sales, HR) experience the highest employee turnover?
 
 How does Average Monthly Income compare between employees who stay and those who leave?
+---
 
 🛠️ Tools & Skills Used
 
@@ -57,6 +59,7 @@ Treemaps (Employee satisfaction segmentation)
 Custom Dark Mode Dashboard
 
 High-contrast visuals for clear executive reporting
+---
 
 📈 Key Insights
 
@@ -67,6 +70,7 @@ Risk Zone: The Research & Development (R&D) department shows the highest number 
 Income Gap: Lower-income roles such as Laboratory Technicians have significantly higher attrition rates.
 
 Overall Impact: The organization’s total attrition rate is 16.1%.
+---
 
 📂 Project Files
 
@@ -75,6 +79,7 @@ HR_Attrition_Analysis_Dashboard.pbix → Final Power BI Dashboard
 Final_dataset_Attrition.csv → Cleaned Dataset
 
 HR_Dashboard_Dark_Mode.png → Dashboard Preview
+---
 
 👩‍💻 Author
 
